@@ -2,6 +2,7 @@ The snow glows white on the mountain tonight
 Not a footprint to be seen
 New Line
 test
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,5 @@ song_newline
 
 newline again
 !!!!!!!!!!!
+=======
+>>>>>>> parent of eec012e (updated song)
