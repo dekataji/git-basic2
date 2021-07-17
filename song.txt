@@ -11,3 +11,4 @@ newline again
 !!!!!!!!!!!
 first commit in feature
 second commit in feature
+third commit in feature
